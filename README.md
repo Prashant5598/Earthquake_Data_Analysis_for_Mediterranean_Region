@@ -1,5 +1,4 @@
-# Project_5
-Earthquake_Data_Analysis_for_Mediterranean_Region using PySpark
+# Project_5: Earthquake_Data_Analysis_for_Mediterranean_Region using PySpark
 
 In this project, the focus revolves around addressing two pivotal research questions: "How effective are classification models in predicting churn for an Iranian dataset?" and "What key factors contribute significantly to churn within the company?"
 
